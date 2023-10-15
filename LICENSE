@@ -1,21 +1,38 @@
-    MIT License
+----------------------------------------------------------------------FR------------------------------------------------------------------------------------
+Licence Publique Générale GNU version 3 (GPL-3.0)
 
-    Copyright (c) Microsoft Corporation. All rights reserved.
+Ce logiciel est distribué sous les termes de la Licence Publique Générale GNU version 3 (GPL-3.0). En vertu de cette licence, vous avez le droit d'utiliser, de copier, de distribuer et de modifier ce logiciel conformément aux conditions suivantes :
 
-    Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
-    in the Software without restriction, including without limitation the rights
-    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-    copies of the Software, and to permit persons to whom the Software is
-    furnished to do so, subject to the following conditions:
+1. **Utilisation** : Vous êtes autorisé à utiliser ce logiciel à des fins non commerciales uniquement, sauf si vous avez obtenu une autorisation explicite du titulaire des droits.
 
-    The above copyright notice and this permission notice shall be included in all
-    copies or substantial portions of the Software.
+2. **Copie et distribution** : Vous êtes autorisé à copier et distribuer des copies de ce logiciel, à condition que vous respectiez les termes de cette licence et que vous incluiez une copie de cette licence avec chaque copie du logiciel.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE
+3. **Modification** : Vous avez le droit de modifier ce logiciel, mais uniquement pour un usage personnel et non commercial. Toute distribution de logiciels modifiés est soumise aux mêmes restrictions que l'original, y compris l'interdiction de l'utilisation commerciale.
+
+4. **Absence de garantie** : Ce logiciel est fourni "tel quel" sans garantie d'aucune sorte. L'auteur ou le titulaire des droits n'est pas responsable des dommages résultant de l'utilisation de ce logiciel.
+
+5. **Autorisation spéciale** : Si vous souhaitez utiliser ce logiciel à des fins commerciales ou si vous avez des demandes spécifiques concernant l'utilisation de ce logiciel, veuillez contacter le titulaire des droits pour obtenir une autorisation explicite.
+
+En acceptant cette licence, vous acceptez de respecter les termes et conditions énoncés ci-dessus. Si vous ne les acceptez pas, vous n'êtes pas autorisé à utiliser, copier, distribuer ou modifier ce logiciel.
+
+Pour plus de détails sur la licence GPL-3.0, veuillez consulter le texte complet de la licence à l'adresse suivante : [Lien vers le texte complet de la licence GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+
+----------------------------------------------------------------------EN------------------------------------------------------------------------------------
+GNU General Public License version 3 (GPL-3.0)
+
+This software is distributed under the terms of the GNU General Public License version 3 (GPL-3.0). Under this license, you have the right to use, copy, distribute, and modify this software subject to the following conditions:
+
+1. **Use**: You are allowed to use this software for non-commercial purposes only unless you have obtained explicit permission from the rights holder.
+
+2. **Copying and Distribution**: You are allowed to make copies and distribute this software, provided you comply with the terms of this license, and include a copy of this license with each copy of the software.
+
+3. **Modification**: You have the right to modify this software, but only for personal and non-commercial use. Any distribution of modified software is subject to the same restrictions as the original, including the prohibition of commercial use.
+
+4. **No Warranty**: This software is provided "as is" without any warranty of any kind. The author or rights holder is not liable for damages resulting from the use of this software.
+
+5. **Special Permission**: If you wish to use this software for commercial purposes or have specific requests regarding the use of this software, please contact the rights holder to obtain explicit permission.
+
+By accepting this license, you agree to abide by the terms and conditions outlined above. If you do not agree, you are not permitted to use, copy, distribute, or modify this software.
+
+For more details on the GPL-3.0 license, please refer to the full text of the license here: [Link to the full text of the GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
